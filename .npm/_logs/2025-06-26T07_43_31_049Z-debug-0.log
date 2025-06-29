@@ -1,0 +1,62 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.15.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/saitejasunkara/AllProjects/nodeProjects/.npmrc
+5 silly config load:file:/Users/saitejasunkara/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm rm g
+8 verbose argv "rm" "g"
+9 verbose logfile logs-max:10 dir:/Users/saitejasunkara/.npm/_logs/2025-06-26T07_43_31_049Z-
+10 verbose logfile /Users/saitejasunkara/.npm/_logs/2025-06-26T07_43_31_049Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly reify mark retired [ '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/g' ]
+16 silly reify moves {
+16 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/g': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.g-INJv38mi'
+16 silly reify }
+17 silly audit bulk request {
+17 silly audit   anymatch: [ '3.1.3' ],
+17 silly audit   'balanced-match': [ '1.0.2' ],
+17 silly audit   'binary-extensions': [ '2.3.0' ],
+17 silly audit   'brace-expansion': [ '1.1.12' ],
+17 silly audit   braces: [ '3.0.3' ],
+17 silly audit   chokidar: [ '3.6.0' ],
+17 silly audit   'concat-map': [ '0.0.1' ],
+17 silly audit   'date-fns': [ '4.1.0' ],
+17 silly audit   debug: [ '4.4.1' ],
+17 silly audit   'fill-range': [ '7.1.1' ],
+17 silly audit   fsevents: [ '2.3.3' ],
+17 silly audit   'glob-parent': [ '5.1.2' ],
+17 silly audit   'has-flag': [ '3.0.0' ],
+17 silly audit   'ignore-by-default': [ '1.0.1' ],
+17 silly audit   'is-binary-path': [ '2.1.0' ],
+17 silly audit   'is-extglob': [ '2.1.1' ],
+17 silly audit   'is-glob': [ '4.0.3' ],
+17 silly audit   'is-number': [ '7.0.0' ],
+17 silly audit   minimatch: [ '3.1.2' ],
+17 silly audit   ms: [ '2.1.3' ],
+17 silly audit   nodemon: [ '3.1.10' ],
+17 silly audit   'normalize-path': [ '3.0.0' ],
+17 silly audit   picomatch: [ '2.3.1' ],
+17 silly audit   'pstree.remy': [ '1.1.8' ],
+17 silly audit   readdirp: [ '3.6.0' ],
+17 silly audit   semver: [ '7.7.2' ],
+17 silly audit   'simple-update-notifier': [ '2.0.0' ],
+17 silly audit   'supports-color': [ '5.5.0' ],
+17 silly audit   'to-regex-range': [ '5.0.1' ],
+17 silly audit   touch: [ '3.1.1' ],
+17 silly audit   undefsafe: [ '2.0.5' ],
+17 silly audit   uuid: [ '11.1.0' ]
+17 silly audit }
+18 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 197ms
+19 silly audit report {}
+20 silly REMOVE node_modules/g
+21 verbose cwd /Users/saitejasunkara/AllProjects/nodeProjects
+22 verbose os Darwin 24.5.0
+23 verbose node v22.15.0
+24 verbose npm  v10.9.2
+25 verbose exit 0
+26 info ok

@@ -1,0 +1,503 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.15.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/saitejasunkara/AllProjects/nodeProjects/.npmrc
+5 silly config load:file:/Users/saitejasunkara/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm un date
+8 verbose argv "un" "date"
+9 verbose logfile logs-max:10 dir:/Users/saitejasunkara/.npm/_logs/2025-06-26T07_42_34_324Z-
+10 verbose logfile /Users/saitejasunkara/.npm/_logs/2025-06-26T07_42_34_324Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly logfile done cleaning log files
+14 silly idealTree buildDeps
+15 silly reify mark retired [
+15 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/array-buffer-byte-length'
+15 silly reify ]
+16 silly reify mark retired [
+16 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/arraybuffer.prototype.slice'
+16 silly reify ]
+17 silly reify mark retired [
+17 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/async-function'
+17 silly reify ]
+18 silly reify mark retired [
+18 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/available-typed-arrays'
+18 silly reify ]
+19 silly reify mark retired [
+19 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/call-bind'
+19 silly reify ]
+20 silly reify mark retired [
+20 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/call-bind-apply-helpers'
+20 silly reify ]
+21 silly reify mark retired [
+21 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/call-bound'
+21 silly reify ]
+22 silly reify mark retired [
+22 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/data-view-buffer'
+22 silly reify ]
+23 silly reify mark retired [
+23 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/data-view-byte-length'
+23 silly reify ]
+24 silly reify mark retired [
+24 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/data-view-byte-offset'
+24 silly reify ]
+25 silly reify mark retired [ '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/date' ]
+26 silly reify mark retired [
+26 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/define-data-property'
+26 silly reify ]
+27 silly reify mark retired [
+27 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/define-properties'
+27 silly reify ]
+28 silly reify mark retired [
+28 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/dunder-proto'
+28 silly reify ]
+29 silly reify mark retired [
+29 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-abstract'
+29 silly reify ]
+30 silly reify mark retired [
+30 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-define-property'
+30 silly reify ]
+31 silly reify mark retired [
+31 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-errors'
+31 silly reify ]
+32 silly reify mark retired [
+32 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-object-atoms'
+32 silly reify ]
+33 silly reify mark retired [
+33 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-set-tostringtag'
+33 silly reify ]
+34 silly reify mark retired [
+34 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-to-primitive'
+34 silly reify ]
+35 silly reify mark retired [
+35 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/for-each'
+35 silly reify ]
+36 silly reify mark retired [
+36 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/function-bind'
+36 silly reify ]
+37 silly reify mark retired [
+37 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/function.prototype.name'
+37 silly reify ]
+38 silly reify mark retired [
+38 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/functions-have-names'
+38 silly reify ]
+39 silly reify mark retired [
+39 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/get-intrinsic'
+39 silly reify ]
+40 silly reify mark retired [
+40 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/get-proto'
+40 silly reify ]
+41 silly reify mark retired [
+41 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/get-symbol-description'
+41 silly reify ]
+42 silly reify mark retired [
+42 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/globalthis'
+42 silly reify ]
+43 silly reify mark retired [ '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/gopd' ]
+44 silly reify mark retired [
+44 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-bigints'
+44 silly reify ]
+45 silly reify mark retired [
+45 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-property-descriptors'
+45 silly reify ]
+46 silly reify mark retired [
+46 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-proto'
+46 silly reify ]
+47 silly reify mark retired [
+47 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-symbols'
+47 silly reify ]
+48 silly reify mark retired [
+48 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-tostringtag'
+48 silly reify ]
+49 silly reify mark retired [
+49 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/hasown'
+49 silly reify ]
+50 silly reify mark retired [
+50 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/internal-slot'
+50 silly reify ]
+51 silly reify mark retired [
+51 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-array-buffer'
+51 silly reify ]
+52 silly reify mark retired [
+52 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-async-function'
+52 silly reify ]
+53 silly reify mark retired [
+53 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-bigint'
+53 silly reify ]
+54 silly reify mark retired [
+54 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-boolean-object'
+54 silly reify ]
+55 silly reify mark retired [
+55 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-callable'
+55 silly reify ]
+56 silly reify mark retired [
+56 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-data-view'
+56 silly reify ]
+57 silly reify mark retired [
+57 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-date-object'
+57 silly reify ]
+58 silly reify mark retired [
+58 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-finalizationregistry'
+58 silly reify ]
+59 silly reify mark retired [
+59 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-generator-function'
+59 silly reify ]
+60 silly reify mark retired [
+60 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-map'
+60 silly reify ]
+61 silly reify mark retired [
+61 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-negative-zero'
+61 silly reify ]
+62 silly reify mark retired [
+62 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-number-object'
+62 silly reify ]
+63 silly reify mark retired [
+63 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-regex'
+63 silly reify ]
+64 silly reify mark retired [
+64 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-set'
+64 silly reify ]
+65 silly reify mark retired [
+65 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-shared-array-buffer'
+65 silly reify ]
+66 silly reify mark retired [
+66 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-string'
+66 silly reify ]
+67 silly reify mark retired [
+67 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-symbol'
+67 silly reify ]
+68 silly reify mark retired [
+68 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-typed-array'
+68 silly reify ]
+69 silly reify mark retired [
+69 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-weakmap'
+69 silly reify ]
+70 silly reify mark retired [
+70 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-weakref'
+70 silly reify ]
+71 silly reify mark retired [
+71 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-weakset'
+71 silly reify ]
+72 silly reify mark retired [
+72 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/isarray'
+72 silly reify ]
+73 silly reify mark retired [
+73 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/math-intrinsics'
+73 silly reify ]
+74 silly reify mark retired [
+74 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/object-inspect'
+74 silly reify ]
+75 silly reify mark retired [
+75 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/object-keys'
+75 silly reify ]
+76 silly reify mark retired [
+76 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/object.assign'
+76 silly reify ]
+77 silly reify mark retired [
+77 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/own-keys'
+77 silly reify ]
+78 silly reify mark retired [
+78 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/possible-typed-array-names'
+78 silly reify ]
+79 silly reify mark retired [
+79 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/reflect.getprototypeof'
+79 silly reify ]
+80 silly reify mark retired [
+80 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/regexp.prototype.flags'
+80 silly reify ]
+81 silly reify mark retired [
+81 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/safe-array-concat'
+81 silly reify ]
+82 silly reify mark retired [
+82 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/safe-push-apply'
+82 silly reify ]
+83 silly reify mark retired [
+83 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/safe-regex-test'
+83 silly reify ]
+84 silly reify mark retired [
+84 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/set-function-length'
+84 silly reify ]
+85 silly reify mark retired [
+85 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/set-function-name'
+85 silly reify ]
+86 silly reify mark retired [
+86 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/set-proto'
+86 silly reify ]
+87 silly reify mark retired [
+87 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel'
+87 silly reify ]
+88 silly reify mark retired [
+88 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel-list'
+88 silly reify ]
+89 silly reify mark retired [
+89 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel-map'
+89 silly reify ]
+90 silly reify mark retired [
+90 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel-weakmap'
+90 silly reify ]
+91 silly reify mark retired [
+91 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/stop-iteration-iterator'
+91 silly reify ]
+92 silly reify mark retired [
+92 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/string.prototype.trim'
+92 silly reify ]
+93 silly reify mark retired [
+93 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/string.prototype.trimend'
+93 silly reify ]
+94 silly reify mark retired [
+94 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/string.prototype.trimstart'
+94 silly reify ]
+95 silly reify mark retired [
+95 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-buffer'
+95 silly reify ]
+96 silly reify mark retired [
+96 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-byte-length'
+96 silly reify ]
+97 silly reify mark retired [
+97 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-byte-offset'
+97 silly reify ]
+98 silly reify mark retired [
+98 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-length'
+98 silly reify ]
+99 silly reify mark retired [
+99 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/unbox-primitive'
+99 silly reify ]
+100 silly reify mark retired [
+100 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-boxed-primitive'
+100 silly reify ]
+101 silly reify mark retired [
+101 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-builtin-type'
+101 silly reify ]
+102 silly reify mark retired [
+102 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-collection'
+102 silly reify ]
+103 silly reify mark retired [
+103 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-typed-array'
+103 silly reify ]
+104 silly reify moves {
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/array-buffer-byte-length': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.array-buffer-byte-length-7PhuU06y',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/arraybuffer.prototype.slice': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.arraybuffer.prototype.slice-FmFOi7VJ',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/async-function': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.async-function-mL8YXsqS',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/available-typed-arrays': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.available-typed-arrays-fJsVygIF',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/call-bind': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.call-bind-xCXrtLmO',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/call-bind-apply-helpers': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.call-bind-apply-helpers-wkGHMdvT',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/call-bound': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.call-bound-7xvao48M',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/data-view-buffer': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.data-view-buffer-IGzil9v6',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/data-view-byte-length': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.data-view-byte-length-Gg7Sacii',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/data-view-byte-offset': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.data-view-byte-offset-bSq6TStW',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/date': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.date-37uSVrBb',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/define-data-property': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.define-data-property-9iGDZKPJ',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/define-properties': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.define-properties-TpuYgbJc',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/dunder-proto': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.dunder-proto-nDVigIbi',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-abstract': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.es-abstract-fqoFw50r',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-define-property': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.es-define-property-fvzhG13l',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-errors': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.es-errors-Qc2jnTXx',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-object-atoms': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.es-object-atoms-4ETHWRjv',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-set-tostringtag': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.es-set-tostringtag-JMIqXDDw',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/es-to-primitive': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.es-to-primitive-UMk8utqS',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/for-each': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.for-each-KN49lxSa',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/function-bind': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.function-bind-40sIJOqB',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/function.prototype.name': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.function.prototype.name-aHoz9mPp',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/functions-have-names': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.functions-have-names-3XcJ7c2v',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/get-intrinsic': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.get-intrinsic-q96tLINx',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/get-proto': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.get-proto-mgeksgkS',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/get-symbol-description': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.get-symbol-description-DKBD8X1a',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/globalthis': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.globalthis-KBtyA4pO',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/gopd': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.gopd-A09jMgzp',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-bigints': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.has-bigints-4oZCLdKZ',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-property-descriptors': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.has-property-descriptors-odFYtPzO',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-proto': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.has-proto-yRXHbLgs',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-symbols': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.has-symbols-Z1RHcrir',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/has-tostringtag': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.has-tostringtag-CVhKC0Xc',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/hasown': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.hasown-a5NFbGaX',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/internal-slot': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.internal-slot-83Xw6HKv',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-array-buffer': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-array-buffer-Sz4A07qL',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-async-function': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-async-function-uNm1bRkm',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-bigint': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-bigint-uNXCHHCB',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-boolean-object': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-boolean-object-CAOYwyeM',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-callable': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-callable-URX37Iys',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-data-view': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-data-view-3WFF4BPq',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-date-object': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-date-object-n9w1fDC4',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-finalizationregistry': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-finalizationregistry-EQN3zzDr',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-generator-function': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-generator-function-fH2VZnJs',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-map': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-map-Q2uDPpTc',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-negative-zero': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-negative-zero-QVgCxEqd',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-number-object': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-number-object-mPQklsa1',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-regex': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-regex-hevhGTu9',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-set': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-set-Ev7hE8xW',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-shared-array-buffer': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-shared-array-buffer-3Bf8yKtE',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-string': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-string-r87HTc5Y',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-symbol': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-symbol-usaecWri',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-typed-array': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-typed-array-2ZYzOy24',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-weakmap': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-weakmap-3AWrfaE7',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-weakref': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-weakref-Worp7qmq',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/is-weakset': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.is-weakset-2gP2oDxD',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/isarray': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.isarray-CkCkHfPL',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/math-intrinsics': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.math-intrinsics-musLqwx1',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/object-inspect': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.object-inspect-cV0sVVdB',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/object-keys': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.object-keys-LIVfBeK8',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/object.assign': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.object.assign-ASvUKlA9',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/own-keys': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.own-keys-zqEkri4c',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/possible-typed-array-names': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.possible-typed-array-names-cRuOIvv7',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/reflect.getprototypeof': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.reflect.getprototypeof-N9EycxAb',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/regexp.prototype.flags': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.regexp.prototype.flags-De09gQBp',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/safe-array-concat': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.safe-array-concat-jpfElVyF',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/safe-push-apply': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.safe-push-apply-DSc0Owem',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/safe-regex-test': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.safe-regex-test-rRBg5jfL',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/set-function-length': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.set-function-length-Yh1IRsrf',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/set-function-name': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.set-function-name-Mjof1LZH',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/set-proto': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.set-proto-V6Dig6Cb',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.side-channel-VzNeHTzx',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel-list': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.side-channel-list-Q7iEm3bf',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel-map': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.side-channel-map-YPlRtPJc',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/side-channel-weakmap': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.side-channel-weakmap-dsZc57Lr',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/stop-iteration-iterator': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.stop-iteration-iterator-71ZQULq9',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/string.prototype.trim': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.string.prototype.trim-HgWBFSTK',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/string.prototype.trimend': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.string.prototype.trimend-dhqCBT0p',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/string.prototype.trimstart': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.string.prototype.trimstart-mXCPhcs4',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-buffer': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.typed-array-buffer-iTRow0o2',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-byte-length': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.typed-array-byte-length-agRDOue9',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-byte-offset': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.typed-array-byte-offset-m9pZQJ2t',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/typed-array-length': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.typed-array-length-dyoqBoJB',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/unbox-primitive': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.unbox-primitive-BorQS8nV',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-boxed-primitive': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.which-boxed-primitive-7AD4knzK',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-builtin-type': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.which-builtin-type-RWCraRTs',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-collection': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.which-collection-xyCZsqeD',
+104 silly reify   '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/which-typed-array': '/Users/saitejasunkara/AllProjects/nodeProjects/node_modules/.which-typed-array-1k9iQzK2'
+104 silly reify }
+105 silly audit bulk request {
+105 silly audit   '-': [ '0.0.1' ],
+105 silly audit   anymatch: [ '3.1.3' ],
+105 silly audit   'balanced-match': [ '1.0.2' ],
+105 silly audit   'binary-extensions': [ '2.3.0' ],
+105 silly audit   'brace-expansion': [ '1.1.12' ],
+105 silly audit   braces: [ '3.0.3' ],
+105 silly audit   chokidar: [ '3.6.0' ],
+105 silly audit   'concat-map': [ '0.0.1' ],
+105 silly audit   'date-fns': [ '4.1.0' ],
+105 silly audit   debug: [ '4.4.1' ],
+105 silly audit   'fill-range': [ '7.1.1' ],
+105 silly audit   fns: [ '1.0.0' ],
+105 silly audit   fsevents: [ '2.3.3' ],
+105 silly audit   g: [ '2.0.1' ],
+105 silly audit   'glob-parent': [ '5.1.2' ],
+105 silly audit   'has-flag': [ '3.0.0' ],
+105 silly audit   'ignore-by-default': [ '1.0.1' ],
+105 silly audit   'is-binary-path': [ '2.1.0' ],
+105 silly audit   'is-extglob': [ '2.1.1' ],
+105 silly audit   'is-glob': [ '4.0.3' ],
+105 silly audit   'is-number': [ '7.0.0' ],
+105 silly audit   minimatch: [ '3.1.2' ],
+105 silly audit   ms: [ '2.1.3' ],
+105 silly audit   nodemon: [ '3.1.10' ],
+105 silly audit   'normalize-path': [ '3.0.0' ],
+105 silly audit   picomatch: [ '2.3.1' ],
+105 silly audit   'pstree.remy': [ '1.1.8' ],
+105 silly audit   readdirp: [ '3.6.0' ],
+105 silly audit   semver: [ '7.7.2' ],
+105 silly audit   'simple-update-notifier': [ '2.0.0' ],
+105 silly audit   'supports-color': [ '5.5.0' ],
+105 silly audit   'to-regex-range': [ '5.0.1' ],
+105 silly audit   touch: [ '3.1.1' ],
+105 silly audit   undefsafe: [ '2.0.5' ],
+105 silly audit   uuid: [ '11.1.0' ]
+105 silly audit }
+106 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 207ms
+107 silly audit report {}
+108 silly REMOVE node_modules/which-typed-array
+109 silly REMOVE node_modules/which-collection
+110 silly REMOVE node_modules/which-builtin-type
+111 silly REMOVE node_modules/which-boxed-primitive
+112 silly REMOVE node_modules/unbox-primitive
+113 silly REMOVE node_modules/typed-array-length
+114 silly REMOVE node_modules/typed-array-byte-offset
+115 silly REMOVE node_modules/typed-array-byte-length
+116 silly REMOVE node_modules/typed-array-buffer
+117 silly REMOVE node_modules/string.prototype.trimstart
+118 silly REMOVE node_modules/string.prototype.trimend
+119 silly REMOVE node_modules/string.prototype.trim
+120 silly REMOVE node_modules/stop-iteration-iterator
+121 silly REMOVE node_modules/side-channel-weakmap
+122 silly REMOVE node_modules/side-channel-map
+123 silly REMOVE node_modules/side-channel-list
+124 silly REMOVE node_modules/side-channel
+125 silly REMOVE node_modules/set-proto
+126 silly REMOVE node_modules/set-function-name
+127 silly REMOVE node_modules/set-function-length
+128 silly REMOVE node_modules/safe-regex-test
+129 silly REMOVE node_modules/safe-push-apply
+130 silly REMOVE node_modules/safe-array-concat
+131 silly REMOVE node_modules/regexp.prototype.flags
+132 silly REMOVE node_modules/reflect.getprototypeof
+133 silly REMOVE node_modules/possible-typed-array-names
+134 silly REMOVE node_modules/own-keys
+135 silly REMOVE node_modules/object.assign
+136 silly REMOVE node_modules/object-keys
+137 silly REMOVE node_modules/object-inspect
+138 silly REMOVE node_modules/math-intrinsics
+139 silly REMOVE node_modules/isarray
+140 silly REMOVE node_modules/is-weakset
+141 silly REMOVE node_modules/is-weakref
+142 silly REMOVE node_modules/is-weakmap
+143 silly REMOVE node_modules/is-typed-array
+144 silly REMOVE node_modules/is-symbol
+145 silly REMOVE node_modules/is-string
+146 silly REMOVE node_modules/is-shared-array-buffer
+147 silly REMOVE node_modules/is-set
+148 silly REMOVE node_modules/is-regex
+149 silly REMOVE node_modules/is-number-object
+150 silly REMOVE node_modules/is-negative-zero
+151 silly REMOVE node_modules/is-map
+152 silly REMOVE node_modules/is-generator-function
+153 silly REMOVE node_modules/is-finalizationregistry
+154 silly REMOVE node_modules/is-date-object
+155 silly REMOVE node_modules/is-data-view
+156 silly REMOVE node_modules/is-callable
+157 silly REMOVE node_modules/is-boolean-object
+158 silly REMOVE node_modules/is-bigint
+159 silly REMOVE node_modules/is-async-function
+160 silly REMOVE node_modules/is-array-buffer
+161 silly REMOVE node_modules/internal-slot
+162 silly REMOVE node_modules/hasown
+163 silly REMOVE node_modules/has-tostringtag
+164 silly REMOVE node_modules/has-symbols
+165 silly REMOVE node_modules/has-proto
+166 silly REMOVE node_modules/has-property-descriptors
+167 silly REMOVE node_modules/has-bigints
+168 silly REMOVE node_modules/gopd
+169 silly REMOVE node_modules/globalthis
+170 silly REMOVE node_modules/get-symbol-description
+171 silly REMOVE node_modules/get-proto
+172 silly REMOVE node_modules/get-intrinsic
+173 silly REMOVE node_modules/functions-have-names
+174 silly REMOVE node_modules/function.prototype.name
+175 silly REMOVE node_modules/function-bind
+176 silly REMOVE node_modules/for-each
+177 silly REMOVE node_modules/es-to-primitive
+178 silly REMOVE node_modules/es-set-tostringtag
+179 silly REMOVE node_modules/es-object-atoms
+180 silly REMOVE node_modules/es-errors
+181 silly REMOVE node_modules/es-define-property
+182 silly REMOVE node_modules/es-abstract
+183 silly REMOVE node_modules/dunder-proto
+184 silly REMOVE node_modules/define-properties
+185 silly REMOVE node_modules/define-data-property
+186 silly REMOVE node_modules/date
+187 silly REMOVE node_modules/data-view-byte-offset
+188 silly REMOVE node_modules/data-view-byte-length
+189 silly REMOVE node_modules/data-view-buffer
+190 silly REMOVE node_modules/call-bound
+191 silly REMOVE node_modules/call-bind-apply-helpers
+192 silly REMOVE node_modules/call-bind
+193 silly REMOVE node_modules/available-typed-arrays
+194 silly REMOVE node_modules/async-function
+195 silly REMOVE node_modules/arraybuffer.prototype.slice
+196 silly REMOVE node_modules/array-buffer-byte-length
+197 verbose cwd /Users/saitejasunkara/AllProjects/nodeProjects
+198 verbose os Darwin 24.5.0
+199 verbose node v22.15.0
+200 verbose npm  v10.9.2
+201 verbose exit 0
+202 info ok
